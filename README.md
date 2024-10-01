@@ -93,5 +93,12 @@ Return the Perimeter:
 
 java
 
-return perimeter;
+        return perimeter;
 This line returns the calculated perimeter.
+
+**Summary:**
+The class RectanglePerimeter contains two methods: calculatePerimeter and main.
+
+The calculatePerimeter method computes the perimeter of a rectangle given its length and width.
+
+The main method uses a Scanner to get the length and width from the user, calls calculatePerimeter to compute the perimeter, and prints the result to the console.
